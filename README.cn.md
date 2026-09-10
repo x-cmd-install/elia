@@ -4,7 +4,7 @@
 
 A snappy, keyboard-centric terminal user interface for interacting with large language models. Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more.
 
-![elia](https://repo.x-cmd.io/elia.svg)
+![elia](https://repo.x-cmd.io/elia.svg?lang=zh)
 
 ## 安装
 
@@ -21,7 +21,6 @@ x install elia
 
 - **最新版本**: `1.10.0` (2024-09-14)
 - **最近提交**: 2024-10-10
-- **发布时间**: 2024-09-14T16:19:02Z
 
 ## 流行度
 
@@ -59,4 +58,4 @@ elia 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:19:12Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:02:02Z._
