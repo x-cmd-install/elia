@@ -12,6 +12,17 @@ A snappy, keyboard-centric terminal user interface for interacting with large la
 x install elia
 ```
 
+## Code insight
+
+Total: **3,134** lines of code across **36** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Python | 2,595 | 20 | 455 | 33 |
+| Sass | 493 | 0 | 83 | 1 |
+| Toml | 46 | 0 | 7 | 1 |
+| Markdown | 0 | 67 | 40 | 1 |
+
 ## Source
 
 - **Upstream**: <https://github.com/darrenburns/elia>
@@ -35,19 +46,11 @@ x install elia
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 1 | 0 |
 | 90d | 2026-06-12 | 0 | 0 | 1 | 0 | 2 | 0 |
+| last180d | 2026-03-14 | 0 | 0 | 1 | 0 | 2 | 0 |
 | 360d | 2025-09-15 | 0 | 0 | 3 | 0 | 4 | 0 |
-
-## Code size
-
-Total: **3,134** lines of code across **36** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Python | 2,595 | 20 | 455 | 33 |
-| Sass | 493 | 0 | 83 | 1 |
-| Toml | 46 | 0 | 7 | 1 |
-| Markdown | 0 | 67 | 40 | 1 |
+| last720d | 2024-09-20 | 0 | 0 | 7 | 6 | 7 | 1 |
 
 ## Improve this data
 
@@ -58,4 +61,4 @@ Install metadata for elia lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:02:01Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:31:46Z._
