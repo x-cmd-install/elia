@@ -1,0 +1,12 @@
+- repo: aur
+  srcname: elia
+  binname: elia
+  visiblename: elia
+  version: 1.10.0
+  origversion: 1.10.0-1
+  status: unique
+  summary: A powerful terminal user interface for interacting with large language models
+  maintainers:
+    - dominiquini@aur
+  licenses:
+    - Apache-2.0
